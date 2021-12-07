@@ -1,0 +1,19 @@
+{
+    "products":[
+    
+    {"id":1,"pname":"English","price":400,"quantity":10,"images":"./img/1.jfif"},
+    {"id":2,"pname":"Hindi","price":350,"quantity":15,"images":"./img/2.jfif"},
+    {"id":3,"pname":"Maths","price":760,"quantity":70,"images":"./img/3.jfif"},
+    {"id":4,"pname":"Chemistry","price":900,"quantity":40,"images":"./img/4.jfif"},
+    {"id":5,"pname":"Physics","price":870,"quantity":86,"images":"./img/5.jfif"},
+    {"id":6,"pname":"Biology","price":560,"quantity":90,"images":"./img/6.jfif"},
+    {"id":7,"pname":"Civics","price":600,"quantity":56,"images":"./img/7.jfif"},
+    {"id":8,"pname":"History","price":810,"quantity":20,"images":"./img/8.jfif"},
+    {"id":9,"pname":"Geography","price":490,"quantity":34,"images":"./img/9.jfif"},
+    {"id":10,"pname":"Economics","price":340,"quantity":56,"images":"./img/10.jfif"},
+    {"id":11,"pname":"Civics","price":290,"quantity":39,"images":"./img/11.jfif"},
+    {"id":12,"pname":"Geography","price":760,"quantity":46,"images":"./img/13.jfif"}
+    
+    ]
+    
+    }
